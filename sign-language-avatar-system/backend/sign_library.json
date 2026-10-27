@@ -1,0 +1,143 @@
+{
+  "_comment": "MODULE 4 -- Sign Sequencing dictionary. Maps a GLOSS token (produced by Module 3) to a named animation clip and its duration. A word NOT in this file is not an error: app.py automatically falls back to fingerspelling it letter-by-letter, so the pipeline never breaks on an unknown word. Add more entries any time by following the same shape.",
+  "HELLO": {
+    "clip": "Sign_Hello",
+    "duration_ms": 900
+  },
+  "THANK-YOU": {
+    "clip": "Sign_ThankYou",
+    "duration_ms": 900
+  },
+  "PLEASE": {
+    "clip": "Sign_Please",
+    "duration_ms": 900
+  },
+  "YES": {
+    "clip": "Sign_Yes",
+    "duration_ms": 600
+  },
+  "NO": {
+    "clip": "Sign_No",
+    "duration_ms": 600
+  },
+  "HELP": {
+    "clip": "Sign_Help",
+    "duration_ms": 900
+  },
+  "WHERE": {
+    "clip": "Sign_Where",
+    "duration_ms": 800
+  },
+  "WHAT": {
+    "clip": "Sign_What",
+    "duration_ms": 800
+  },
+  "WHO": {
+    "clip": "Sign_Who",
+    "duration_ms": 800
+  },
+  "WHEN": {
+    "clip": "Sign_When",
+    "duration_ms": 800
+  },
+  "HOW": {
+    "clip": "Sign_How",
+    "duration_ms": 800
+  },
+  "WHY": {
+    "clip": "Sign_Why",
+    "duration_ms": 800
+  },
+  "NAME": {
+    "clip": "Sign_Name",
+    "duration_ms": 800
+  },
+  "YOU": {
+    "clip": "Sign_You",
+    "duration_ms": 500
+  },
+  "I": {
+    "clip": "Sign_I",
+    "duration_ms": 500
+  },
+  "ME": {
+    "clip": "Sign_I",
+    "duration_ms": 500
+  },
+  "MY": {
+    "clip": "Sign_My",
+    "duration_ms": 500
+  },
+  "GO": {
+    "clip": "Sign_Go",
+    "duration_ms": 700
+  },
+  "STOP": {
+    "clip": "Sign_Stop",
+    "duration_ms": 700
+  },
+  "WAIT": {
+    "clip": "Sign_Wait",
+    "duration_ms": 700
+  },
+  "DOCTOR": {
+    "clip": "Sign_Doctor",
+    "duration_ms": 900
+  },
+  "HOSPITAL": {
+    "clip": "Sign_Hospital",
+    "duration_ms": 900
+  },
+  "AIRPORT": {
+    "clip": "Sign_Airport",
+    "duration_ms": 900
+  },
+  "TICKET": {
+    "clip": "Sign_Ticket",
+    "duration_ms": 900
+  },
+  "BATHROOM": {
+    "clip": "Sign_Bathroom",
+    "duration_ms": 900
+  },
+  "WATER": {
+    "clip": "Sign_Water",
+    "duration_ms": 700
+  },
+  "EMERGENCY": {
+    "clip": "Sign_Emergency",
+    "duration_ms": 1000
+  },
+  "SORRY": {
+    "clip": "Sign_Sorry",
+    "duration_ms": 800
+  },
+  "GOOD": {
+    "clip": "Sign_Good",
+    "duration_ms": 600
+  },
+  "BAD": {
+    "clip": "Sign_Bad",
+    "duration_ms": 600
+  },
+  "SICK": {
+    "clip": "Sign_Sick",
+    "duration_ms": 800
+  },
+  "PAIN": {
+    "clip": "Sign_Pain",
+    "duration_ms": 800
+  },
+  "TIME": {
+    "clip": "Sign_Time",
+    "duration_ms": 600
+  },
+  "TODAY": {
+    "clip": "Sign_Today",
+    "duration_ms": 700
+  },
+  "TOMORROW": {
+    "clip": "Sign_Tomorrow",
+    "duration_ms": 700
+  }
+}

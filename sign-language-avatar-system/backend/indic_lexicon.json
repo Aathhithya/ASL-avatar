@@ -1,0 +1,24 @@
+{
+  "_comment": "Tamil (ta) and Hindi (hi) words mapped to gloss names in sign_library.json. Extend freely; multiple spellings per sign are welcome. Have a native speaker review before production use.",
+  "ta": {
+    "வணக்கம்": "HELLO", "நன்றி": "THANK-YOU", "தயவுசெய்து": "PLEASE", "ஆம்": "YES", "இல்லை": "NO",
+    "உதவி": "HELP", "எங்கே": "WHERE", "எங்கு": "WHERE", "என்ன": "WHAT", "யார்": "WHO", "எப்போது": "WHEN",
+    "எப்படி": "HOW", "ஏன்": "WHY", "பெயர்": "NAME", "நீ": "YOU", "நீங்கள்": "YOU", "நான்": "I",
+    "எனக்கு": "ME", "என்": "MY", "என்னுடைய": "MY", "போ": "GO", "செல்": "GO", "நில்": "STOP",
+    "காத்திரு": "WAIT", "மருத்துவர்": "DOCTOR", "டாக்டர்": "DOCTOR", "மருத்துவமனை": "HOSPITAL",
+    "விமானநிலையம்": "AIRPORT", "டிக்கெட்": "TICKET", "கழிவறை": "BATHROOM", "தண்ணீர்": "WATER",
+    "நீர்": "WATER", "அவசரம்": "EMERGENCY", "மன்னிக்கவும்": "SORRY", "நல்ல": "GOOD", "நன்று": "GOOD",
+    "மோசம்": "BAD", "கெட்ட": "BAD", "நோய்": "SICK", "உடம்புசரியில்லை": "SICK", "வலி": "PAIN",
+    "நேரம்": "TIME", "இன்று": "TODAY", "நாளை": "TOMORROW"
+  },
+  "hi": {
+    "नमस्ते": "HELLO", "नमस्कार": "HELLO", "धन्यवाद": "THANK-YOU", "शुक्रिया": "THANK-YOU", "कृपया": "PLEASE",
+    "हाँ": "YES", "हां": "YES", "नहीं": "NO", "मदद": "HELP", "कहाँ": "WHERE", "कहां": "WHERE", "क्या": "WHAT",
+    "कौन": "WHO", "कब": "WHEN", "कैसे": "HOW", "क्यों": "WHY", "नाम": "NAME", "तुम": "YOU", "आप": "YOU",
+    "मैं": "I", "मुझे": "ME", "मेरा": "MY", "मेरी": "MY", "जाओ": "GO", "जाना": "GO", "रुको": "STOP",
+    "रुकिए": "STOP", "इंतज़ार": "WAIT", "इंतजार": "WAIT", "डॉक्टर": "DOCTOR", "अस्पताल": "HOSPITAL",
+    "टिकट": "TICKET", "शौचालय": "BATHROOM", "पानी": "WATER", "आपातकाल": "EMERGENCY", "माफ़": "SORRY",
+    "माफ": "SORRY", "क्षमा": "SORRY", "अच्छा": "GOOD", "अच्छी": "GOOD", "बुरा": "BAD", "खराब": "BAD",
+    "बीमार": "SICK", "दर्द": "PAIN", "समय": "TIME", "आज": "TODAY", "कल": "TOMORROW"
+  }
+}
